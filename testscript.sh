@@ -3,4 +3,4 @@ echo "this script is from github"
 NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
 echo "This was added"
-echo "good sussc"
+echo "good success yo!"
